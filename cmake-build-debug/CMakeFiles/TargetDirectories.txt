@@ -1,0 +1,5 @@
+/home/ashutosh/SPOJ/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ashutosh/SPOJ/cmake-build-debug/CMakeFiles/abcpath.dir
+/home/ashutosh/SPOJ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ashutosh/SPOJ/cmake-build-debug/CMakeFiles/abcdef.dir
+/home/ashutosh/SPOJ/cmake-build-debug/CMakeFiles/SPOJ.dir
